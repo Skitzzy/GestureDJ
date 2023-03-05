@@ -1,5 +1,5 @@
 # GestureDJ
-GDJ is a project I worked on for my 3rd year computer music module. 
+GDJ is a project I worked on for my 3rd year computer music module. It uses a LeapMotion controller to create a virtual floating DJ Deck in the air!
 
 It uses a Leap Motion motion capture device and requires the associated Leap Motion SDK to work
 

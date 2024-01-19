@@ -8,10 +8,10 @@ These are used to define gestures that can control audio playback through a pyth
 
 Currently implemented features:
 
--2 track player
+- 2 track player
 
--regular playback controls through swiping gestures
+- regular playback controls through swiping gestures
 
--DSP effects, low pass filter on individual tracks through gestures
+- DSP effects, low pass filter on individual tracks through gestures
 
--stereo volume and panning through gestures
+- stereo volume and panning through gestures
